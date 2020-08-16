@@ -1,4 +1,4 @@
-# recSystem_AceleraDevDS
+# Sistema de Recomendação
 Projeto final da aceleração AceleraDev Data Science proporcionado pela **Codenation**, agora **Trybe**.
 
 ## Objetivo
